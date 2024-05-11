@@ -22,7 +22,7 @@ We start by importing the re module, which stands for regular expressions. This 
 <br />
 
 <p align="center">
-The check_password_strength Function is function takes a password as input and returns an errors based on the criteria it fails to meet: <br/> 
+The check_password_strength Function takes a password as input and returns an errors based on the criteria it fails to meet: <br/> 
 <img src="https://i.imgur.com/db0Ae5r.png" height="80%" width="80%" alt="OWASPChecker"/>
 <br />
 <br />
@@ -56,3 +56,6 @@ Strong password example: <br/>
 <img src="https://i.imgur.com/QfRmxFr.png" height="80%" width="80%" alt="OWASPChecker"/>
 <br />
 <br />
+
+<p align="center">
+And that's my password checker based on the OWASP standards
